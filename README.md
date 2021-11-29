@@ -35,7 +35,7 @@ SHAMIM-Cam (GoogleCamera Mod)
 * How To Use? Add this line in ( aosp_sweet.mk or device.mk )
 ```
    # Inherit GoogleCamera
-$(call inherit-product-if-exists, vendor/xiaomi/GoogleCameraSweet/Camera.mk)
+$(call inherit-product-if-exists, vendor/GoogleCameraSweet/Camera.mk)
 ```
 Enjoy Wen...? ❤
 ---------------
