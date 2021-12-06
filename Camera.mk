@@ -1,2 +1,2 @@
 PRODUCT_PACKAGES += \
-    GoogleCameraSweet
+    GoogleCameraPine
